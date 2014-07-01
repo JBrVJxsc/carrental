@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRental", "CarRental\CarRental.csproj", "{8AC72DFC-B508-4CA2-815A-4B298EB73932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalLoader", "CarRentalLoader\CarRentalLoader.csproj", "{259ACF42-1275-4D77-AE74-83336F786C56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalLibrary", "CarRentalLibrary\CarRentalLibrary.csproj", "{65E02574-1D59-4E86-A4AE-424DEE628759}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalServer", "CarRentalServer\CarRentalServer.csproj", "{0A49AEBD-3C51-48DF-8E87-E35E3A1FA574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AC72DFC-B508-4CA2-815A-4B298EB73932}.Debug|x86.ActiveCfg = Debug|x86
+		{8AC72DFC-B508-4CA2-815A-4B298EB73932}.Debug|x86.Build.0 = Debug|x86
+		{8AC72DFC-B508-4CA2-815A-4B298EB73932}.Release|x86.ActiveCfg = Release|x86
+		{8AC72DFC-B508-4CA2-815A-4B298EB73932}.Release|x86.Build.0 = Release|x86
+		{259ACF42-1275-4D77-AE74-83336F786C56}.Debug|x86.ActiveCfg = Debug|x86
+		{259ACF42-1275-4D77-AE74-83336F786C56}.Debug|x86.Build.0 = Debug|x86
+		{259ACF42-1275-4D77-AE74-83336F786C56}.Release|x86.ActiveCfg = Release|x86
+		{259ACF42-1275-4D77-AE74-83336F786C56}.Release|x86.Build.0 = Release|x86
+		{65E02574-1D59-4E86-A4AE-424DEE628759}.Debug|x86.ActiveCfg = Debug|x86
+		{65E02574-1D59-4E86-A4AE-424DEE628759}.Debug|x86.Build.0 = Debug|x86
+		{65E02574-1D59-4E86-A4AE-424DEE628759}.Release|x86.ActiveCfg = Release|x86
+		{65E02574-1D59-4E86-A4AE-424DEE628759}.Release|x86.Build.0 = Release|x86
+		{0A49AEBD-3C51-48DF-8E87-E35E3A1FA574}.Debug|x86.ActiveCfg = Debug|x86
+		{0A49AEBD-3C51-48DF-8E87-E35E3A1FA574}.Debug|x86.Build.0 = Debug|x86
+		{0A49AEBD-3C51-48DF-8E87-E35E3A1FA574}.Release|x86.ActiveCfg = Release|x86
+		{0A49AEBD-3C51-48DF-8E87-E35E3A1FA574}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
